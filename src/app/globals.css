@@ -1,8 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-<<<<<<< HEAD
-=======
 
 
 *,
@@ -28,4 +26,3 @@ img {
 img:hover {
     scale: 102%;
 }
->>>>>>> 35a076a97dba18968b00963ba025be6d7e90b0aa

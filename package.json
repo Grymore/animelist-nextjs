@@ -9,17 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.0.2"
-=======
     "n": "^9.2.0",
     "next": "14.0.2",
     "react": "^18",
     "react-dom": "^18",
     "stable": "^0.1.8"
->>>>>>> 35a076a97dba18968b00963ba025be6d7e90b0aa
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
