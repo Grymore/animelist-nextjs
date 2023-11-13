@@ -13,7 +13,7 @@ const Home = async () => {
       <div className="flex justify-between items-center p-4">
         <h1 className="text-2xl font-bold">Daftar Populer</h1>
         <Link
-          href={"/populer"}
+          href={"/populerlagideh"}
           className="md:text-xl text-sm underline hover:text-indigo-500 transition-all"
         >
           Lihat Semua
