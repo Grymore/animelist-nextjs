@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -28,24 +29,16 @@ yarn-error.log*
 # local env files
 .env*.local
 node_modules/
-Dockerfile
-docker-composer.yml
+
 # vercel
 .vercel
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-<<<<<<< HEAD
-=======
 =======
 node_modules/*
-<<<<<<< HEAD
 .env
 .next
 package.json
 >>>>>>> 35a076a97dba18968b00963ba025be6d7e90b0aa
-=======
-.env
->>>>>>> parent of b623626 (session 1)
->>>>>>> 4c243a01f40d372c8af62cd82fcfc630da75a078
