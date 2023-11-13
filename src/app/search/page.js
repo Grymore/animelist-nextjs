@@ -1,4 +1,4 @@
-const Page = () => {
+const Search = () => {
   return (
     <>
       <div>
@@ -8,4 +8,4 @@ const Page = () => {
     </>
   );
 };
-export default Page;
+export default Search;
