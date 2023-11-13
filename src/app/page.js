@@ -1,9 +1,6 @@
-import FilmList from "@/components/FilmList";
-import Link from "next/link";
-=======
+
 import { data } from "autoprefixer";
 import FilmList from "./search/components/FilmList";
->>>>>>> parent of b623626 (session 1)
 
 const Home = async () => {
   const response = await fetch(`https://api.jikan.moe/v4/top/anime`);
