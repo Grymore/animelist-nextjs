@@ -1,10 +1,9 @@
-import FilmList from "@/components/FilmList";
-import Link from "next/link";
+
+import { data } from "autoprefixer";
+import FilmList from "./search/components/FilmList";
 
 const Home = async () => {
-  const response = await fetch(
-    `${process.env.BASE_PUBLIC_API_BASE_URL}/top/anime?limit=8`
-  );
+  const response = await fetch(`https://api.jikan.moe/v4/top/anime`);
 
   const anime = await response.json();
 
