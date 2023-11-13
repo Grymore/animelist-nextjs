@@ -26,8 +26,12 @@ export default function RootLayout({ children }) {
         </div>
 =======
       <body className={inter.className} suppressHydrationWarning={true}>
+<<<<<<< HEAD
         <Navbar />
 >>>>>>> 35a076a97dba18968b00963ba025be6d7e90b0aa
+=======
+        <Navbar className="" />
+>>>>>>> ff25cdd (layput)
         {children}
       </body>
     </html>
