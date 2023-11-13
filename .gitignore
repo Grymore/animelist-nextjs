@@ -38,7 +38,11 @@ node_modules/
 next-env.d.ts
 =======
 node_modules/*
+<<<<<<< HEAD
 .env
 .next
 package.json
 >>>>>>> 35a076a97dba18968b00963ba025be6d7e90b0aa
+=======
+.env
+>>>>>>> parent of b623626 (session 1)
