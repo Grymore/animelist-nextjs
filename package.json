@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@phosphor-icons/react": "^2.0.14",
     "n": "^9.2.0",
     "next": "14.0.2",
+    "next-auth": "^4.24.5",
     "react": "^18",
     "react-dom": "^18",
+    "react-youtube": "^10.1.0",
     "stable": "^0.1.8"
   },
   "devDependencies": {
